@@ -1,0 +1,35 @@
+.navbar-light .navbar-toggler {
+    border: none;
+}
+
+.navbar-light .navbar-toggler {
+    box-shadow: none;
+}
+
+.transition-ease {
+    transition: .4s;
+}
+
+.navbar-collapse {
+    text-align: center;
+    transition: .4s;
+    box-shadow: 0 4px 4px rgb(0 0 0 / 10%);
+    border-radius: 0 0 1rem 1rem;
+    z-index: var(--z-fixed);
+    position: relative;
+}
+
+.navbar .container {
+    padding: 0;
+}
+.navbar {
+    padding: 0;
+}
+
+.btn:hover {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
